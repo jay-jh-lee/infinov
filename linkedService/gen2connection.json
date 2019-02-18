@@ -1,0 +1,10 @@
+{
+	"name": "gen2connection",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://sajayleeadfv2.dfs.core.windows.net"
+		}
+	}
+}
